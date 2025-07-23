@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Aryan Patel</h1>
+<h1 align="center">Hi 👋, I'm Aryan Patel</h1>
 <h3 align="center">🚀 A passionate developer & hackathon enthusiast from India</h3>
 
 <p align="center">
@@ -61,5 +61,3 @@ Feel free to reach out or collaborate with me:
 - 🔗 LinkedIn: [aryan-patel28](https://www.linkedin.com/in/aryan-patel28/)  
 - 🌐 GitHub: [aryanpatel287](https://github.com/aryanpatel287)
 
-
-](https://www.citypng.com/public/uploads/preview/hd-linkedin-official-logo-transparent-background-701751694779193uxxevujc5p.png)
