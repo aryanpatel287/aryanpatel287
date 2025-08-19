@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryan Patel</h1>
-<h3 align="center">🚀 A passionate developer & hackathon enthusiast from India</h3>
+<h3 align="center"> A passionate developer & hackathon enthusiast from India</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-patel28/" target="_blank">
@@ -15,14 +15,14 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
 I’m a tech-savvy developer with a strong interest in building scalable web applications. I enjoy creating meaningful user experiences and solving real-world problems through clean code and collaboration. Whether it’s hackathons, open-source, or solo builds — I thrive on learning and innovating.
 
-I’m passionate about technology and collaborative growth. If you’re interested in building live products, solving real challenges, or exploring ideas in tech and content, feel free to connect and start the conversation! 🤝
+I’m passionate about technology and collaborative growth. If you’re interested in building live products, solving real challenges, or exploring ideas in tech and content, feel free to connect and start the conversation! 
 
 
-### 💼 Technical Skills
+###  Technical Skills
 
 • **Languages:** Java (DSA, OOPs), Python, JavaScript
 
@@ -36,7 +36,7 @@ I’m passionate about technology and collaborative growth. If you’re interest
 
 ---
 
-### 🧠 My Projects
+###  My Projects
 
 -  [DelaySense](https://github.com/aryanpatel287/DelaySense.git) – Smart logistics delay detection & SKU loss dashboard (Walmart Sparkathon)
 -  **MatePeak** – 1:1 student mentorship & growth platform
@@ -44,7 +44,7 @@ I’m passionate about technology and collaborative growth. If you’re interest
 
 ---
 
-### 🏆 Achievements
+###  Achievements
 
 -  Finalist – Odoo Hackathon 2025 , selected in top 350 teams for final round out of 19,000 participants
 -  Contributor – Open Source Connect India Program
@@ -53,11 +53,11 @@ I’m passionate about technology and collaborative growth. If you’re interest
 ---
 
 
-### 📫 Let's Connect
+###  Let's Connect
 
 Feel free to reach out or collaborate with me:
 
-- 📩 Email: aryanpatel.me@gmail.com  
-- 🔗 LinkedIn: [aryan-patel28](https://www.linkedin.com/in/aryan-patel28/)  
-- 🌐 GitHub: [aryanpatel287](https://github.com/aryanpatel287)
+-  Email: aryanpatel.me@gmail.com  
+-  LinkedIn: [aryan-patel28](https://www.linkedin.com/in/aryan-patel28/)  
+-  GitHub: [aryanpatel287](https://github.com/aryanpatel287)
 
