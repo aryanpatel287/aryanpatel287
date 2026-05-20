@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aryan Patel</h1>
-<h3 align="center"> A passionate developer & hackathon enthusiast from India</h3>
+<h1 align="center">Hi, I'm Aryan Patel</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aryan-patel28/" target="_blank">
@@ -15,49 +14,42 @@
 
 ---
 
-###  About Me
+### About Me
 
-I’m a tech-savvy developer with a strong interest in building scalable web applications. I enjoy creating meaningful user experiences and solving real-world problems through clean code and collaboration. Whether it’s hackathons, open-source, or solo builds — I thrive on learning and innovating.
-
-I’m passionate about technology and collaborative growth. If you’re interested in building live products, solving real challenges, or exploring ideas in tech and content, feel free to connect and start the conversation! 
-
-
-###  Technical Skills
-
-• **Languages:** Java (DSA, OOPs), Python, JavaScript
-
-• **Skills:** Data Structures and Algorithms, Problem Solving, Object Oriented Programming
-
-• **Frameworks/Database:** React.js, Tailwind CSS, MySQL
-
-• **Development:** CSS, HTML
-
-• **Developer Tools:** Git, GitHub, Figma, Linux (Shell scripting)
+I’m a tech-savvy Computer Engineering student at Government Engineering College, Dahod. I specialize in building scalable, real-time web applications, designing REST APIs, and implementing AI-driven workflows (RAG pipelines & LLM orchestration). Whether it's hackathons, open-source, or building from scratch — I thrive on learning, problem-solving, and collaborating.
 
 ---
 
-###  My Projects
+### Technical Skills
 
--  [DelaySense](https://github.com/aryanpatel287/DelaySense.git) – Smart logistics delay detection & SKU loss dashboard (Walmart Sparkathon)
--  **MatePeak** – 1:1 student mentorship & growth platform
--  **SkillSwap** – Built for Odoo Hackathon with skill request/accept features and user badges
-
----
-
-###  Achievements
-
--  Finalist – Odoo Hackathon 2025 , selected in top 350 teams for final round out of 19,000 participants
--  Contributor – Open Source Connect India Program
-
+- **Languages:** JavaScript (DSA), Java (Basic), SQL (MySQL Basics)
+- **Frameworks & Libraries:** React.js, Node.js, Express.js, Tailwind CSS, Redux Toolkit, Socket.IO
+- **Web Technologies:** HTML, CSS, REST APIs, Context API, JWT
+- **Databases & Caching:** MongoDB (Mongoose), Redis, Pinecone (Vector Database)
+- **Key Concepts:** Data Structures & Algorithms, Generative AI (LangChain), Retrieval-Augmented Generation (RAG), Version Control (Git/GitHub), Figma
 
 ---
 
+### Projects
 
-###  Let's Connect
+*   **Perplexity AI Clone** | [GitHub](https://github.com/aryanpatel287/Cohort2.0-Backend/tree/main/Perplexity) | [Live Demo](https://cohort2-0-backend-1-kphk.onrender.com)
+    *   Built a full-stack AI chat application with separate React client and Express API.
+    *   Implemented secure JWT cookie authentication with email verification, password reset, and Redis-based logout blacklisting.
+    *   Delivered real-time AI streaming responses over Socket.IO with dynamic client UX states (thinking, tool calling, done, error).
+    *   Integrated LangChain agents for multi-model routing and tool calling (web search, email, date/time, context retrieval).
+    *   Built a custom RAG pipeline using LlamaCloud for PDF parsing, MongoDB for chunk storage, and Pinecone for vector retrieval.
+    *   *Tech Stack:* React, Node.js, Express, MongoDB, Redis, Socket.IO, LangChain, Pinecone, ImageKit
 
-Feel free to reach out or collaborate with me:
+*   **Insta-clone** | [GitHub](https://github.com/aryanpatel287/Cohort2.0-Backend/tree/main/Insta-clone) | [Live Demo](https://cohort2-0-backend-z7gf.onrender.com)
+    *   Created a full-stack social feed app with authentication, user profiles, posts, likes, and a follow request system.
+    *   Designed REST APIs using Express 5 + Mongoose with JWT cookie auth for secure session management.
+    *   Implemented full follow request lifecycle (pending, accepted, rejected) with followers/following relationships.
+    *   *Tech Stack:* React, Vite, Context API, Node.js, Express 5, MongoDB, JWT, Multer, ImageKit, Sass
 
--  Email: aryanpatel.me@gmail.com  
--  LinkedIn: [aryan-patel28](https://www.linkedin.com/in/aryan-patel28/)  
--  GitHub: [aryanpatel287](https://github.com/aryanpatel287)
+---
 
+### Let's Connect
+
+-  **Email:** [aryanpatel.me@gmail.com](mailto:aryanpatel.me@gmail.com)  
+-  **LinkedIn:** [aryan-patel28](https://www.linkedin.com/in/aryan-patel28/)  
+-  **GitHub:** [aryanpatel287](https://github.com/aryanpatel287)
