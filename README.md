@@ -6,19 +6,19 @@ I’m a Computer Engineering student who enjoys building full-stack applications
 
 I learn best by building. When a project requires a technology or concept I don't know yet, I’m interested in understanding it, implementing it, and figuring out where it fits into the larger system.
 
-<p align="left">
-  <a href="https://github.com/aryanpatel287">
-    <img src="https://img.shields.io/badge/GitHub-aryanpatel287-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<p align="center">
+  <a href="https://aryanpatel.in">
+    <img src="https://img.shields.io/badge/Portfolio-aryanpatel.in-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/aryan-patel28/">
     <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:aryanpatel.me@gmail.com">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:workwitharyanpatel@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
----
 
 ## What I Build
 
@@ -79,28 +79,22 @@ A full-stack streetwear e-commerce platform focused on the engineering challenge
 
 ## Technical Stack
 
-### Languages
-
+**Languages**  
 `JavaScript` · `SQL` · `Java`
 
-### Frontend
-
+**Frontend**  
 `React` · `Vite` · `Redux Toolkit` · `React Router` · `HTML` · `CSS` · `SCSS` · `Tailwind CSS`
 
-### Backend
-
+**Backend**  
 `Node.js` · `Express.js` · `REST APIs` · `Socket.IO` · `JWT`
 
-### Databases & Infrastructure
-
+**Databases & Infrastructure**  
 `MongoDB` · `Mongoose` · `PostgreSQL` · `Redis` · `Pinecone`
 
-### AI / Machine Learning
+**AI / Machine Learning**  
+`LangChain` · `RAG` · `LLM Agents` · `Tool Calling` · `Embeddings`
 
-`LangChain` · `RAG` · `LLM Agents` · `Tool Calling` · `Embeddings` · `Gemini` · `Mistral`
-
-### Tools & Services
-
+**Tools & Services**  
 `Git` · `GitHub` · `Docker` · `Figma` · `ImageKit` · `Razorpay`
 
 ---
