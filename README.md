@@ -152,7 +152,7 @@ I'm always interested in discussing software engineering, backend systems, AI ap
 
 * **GitHub:** [aryanpatel287](https://github.com/aryanpatel287)
 * **LinkedIn:** [Aryan Patel](https://www.linkedin.com/in/aryan-patel28/)
-* **Email:** [aryanpatel.me@gmail.com](mailto:aryanpatel.me@gmail.com)
+* **Email:** [aryanpatel.me@gmail.com](mailto:workiwtharyanpatel@gmail.com)
 
 ---
 
