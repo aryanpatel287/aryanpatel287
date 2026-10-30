@@ -11,7 +11,7 @@ I learn best by building. When a project requires a technology or concept I don'
     <img src="https://img.shields.io/badge/Portfolio-aryanpatel.in-6C63FF?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/aryan-patel28/">
+  <a href="https://linkedin.com/in/gecdhd-comp-aryan-patel">
     <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Patel-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
